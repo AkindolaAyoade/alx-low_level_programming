@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main - assign a random number to the variable n each time it is executed
-* Description: prints  if a number is positive or negative.
-* Return: 0
-*/
+ * main - assign a random number to the variable n each time it is executed
+ * Description: prints  if a number is positive or negative.
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
