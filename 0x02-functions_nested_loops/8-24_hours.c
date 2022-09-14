@@ -19,7 +19,7 @@ void jack_bauer(void)
 
 		d++;
 		if (d > 9)
-		{	
+		{
 			d = 0;
 			c++;
 		}
@@ -35,4 +35,3 @@ void jack_bauer(void)
 		}
 		x++;
 	}
-}
